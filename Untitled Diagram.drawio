@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T07:45:35.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="TXIUJiAixV5O9XcxznCm" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T07:54:03.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="MUowP2ZalgXxloyMe21U" version="18.0.7" type="github">
   <diagram id="bURpGb17ZqjAIcp8gYNU" name="Page-1">
     <mxGraphModel dx="1203" dy="1123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kIe1R308I3wS3oBuVrrd-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="160" width="720" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="RIX8hU53r9PgMsLvg3Ds-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="140" width="460" height="330" as="geometry" />
         </mxCell>
@@ -40,6 +43,9 @@
         <mxCell id="kIe1R308I3wS3oBuVrrd-8" value="角色权限设置组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kIe1R308I3wS3oBuVrrd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;" edge="1" parent="1" source="kIe1R308I3wS3oBuVrrd-9" target="kIe1R308I3wS3oBuVrrd-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kIe1R308I3wS3oBuVrrd-9" value="菜单加载组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -66,6 +72,21 @@
             <mxPoint x="280" y="790" as="sourcePoint" />
             <mxPoint x="320" y="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kIe1R308I3wS3oBuVrrd-21" value="&lt;h1&gt;权限及菜单的使用方&lt;/h1&gt;&lt;p&gt;部署特定的后端服务，使用前端组件&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="60" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kIe1R308I3wS3oBuVrrd-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="460" width="710" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kIe1R308I3wS3oBuVrrd-26" value="管理平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="930" y="120" width="620" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIe1R308I3wS3oBuVrrd-27" value="云管平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="890" y="430" width="690" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIe1R308I3wS3oBuVrrd-28" value="菜单加载组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
