@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T07:37:44.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="UDpgNnYtu9fz-aYgXFkz" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T07:38:44.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="T6QsiMD1sBfq1MYECZ1z" version="18.0.7" type="github">
   <diagram id="bURpGb17ZqjAIcp8gYNU" name="Page-1">
     <mxGraphModel dx="1298" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="kIe1R308I3wS3oBuVrrd-9" value="菜单加载组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIe1R308I3wS3oBuVrrd-10" value="&lt;h1&gt;共用后端项目及业务组件&lt;/h1&gt;&lt;p&gt;后端服务提供莘及角色 ，及角色权限的设置功能&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="450" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
