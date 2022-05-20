@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T02:08:20.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="TDmEw_D9Dvq5Eiu6yWGX" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T02:09:18.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="0RcEtNLo37moNa-M8ySq" version="18.0.7" type="github">
   <diagram id="bURpGb17ZqjAIcp8gYNU" name="Page-1">
-    <mxGraphModel dx="1680" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="970" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,6 +175,9 @@
         </mxCell>
         <mxCell id="Xr9ccXARoI3-LC38zG-U-13" value="&lt;h1&gt;功能模块&lt;/h1&gt;&lt;p&gt;具体的功能&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="Xr9ccXARoI3-LC38zG-U-11">
           <mxGeometry x="40" y="15" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr9ccXARoI3-LC38zG-U-15" value="&lt;h1&gt;前端组件&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="194" width="110" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
