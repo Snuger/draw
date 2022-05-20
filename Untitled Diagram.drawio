@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T01:59:21.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="4cAl5oVYcVvZej7dXchr" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T02:00:22.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="ut2P6as59D6LC-NpHC3y" version="18.0.7" type="github">
   <diagram id="bURpGb17ZqjAIcp8gYNU" name="Page-1">
     <mxGraphModel dx="920" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,6 +152,24 @@
         </mxCell>
         <mxCell id="Xr9ccXARoI3-LC38zG-U-7" value="用户角色设置组件" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr9ccXARoI3-LC38zG-U-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1310" y="290" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr9ccXARoI3-LC38zG-U-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xr9ccXARoI3-LC38zG-U-10">
+          <mxGeometry width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr9ccXARoI3-LC38zG-U-9" value="&lt;h1&gt;功能模块&lt;/h1&gt;&lt;p&gt;具体的功能&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="Xr9ccXARoI3-LC38zG-U-10">
+          <mxGeometry x="40" y="15" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr9ccXARoI3-LC38zG-U-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1300" y="600" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr9ccXARoI3-LC38zG-U-12" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="Xr9ccXARoI3-LC38zG-U-11">
+          <mxGeometry width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr9ccXARoI3-LC38zG-U-13" value="&lt;h1&gt;功能模块&lt;/h1&gt;&lt;p&gt;具体的功能&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="Xr9ccXARoI3-LC38zG-U-11">
+          <mxGeometry x="40" y="15" width="270" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
