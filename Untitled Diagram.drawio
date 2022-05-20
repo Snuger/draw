@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-20T02:16:39.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="RTp3Ix1IrnXLK8I7QedY" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-20T02:17:30.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="7WbQZ2CZSBJc_CvYnzKo" version="18.0.7" type="github">
   <diagram id="bURpGb17ZqjAIcp8gYNU" name="Page-1">
-    <mxGraphModel dx="1164" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1663" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,6 +202,12 @@
         </mxCell>
         <mxCell id="Xr9ccXARoI3-LC38zG-U-27" value="用户权限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Xr9ccXARoI3-LC38zG-U-22">
           <mxGeometry x="203.99999999999997" y="154.495" width="71.99999999999999" height="164.50000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr9ccXARoI3-LC38zG-U-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="870" as="sourcePoint" />
+            <mxPoint x="1060" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
