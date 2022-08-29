@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T01:23:25.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="jB2j_DRHsVMD_OWJOO0Q" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T01:57:52.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="c9vLjxUmM0_aQlXjuRrk" version="20.2.3" type="github">
   <diagram id="aKOXHxGFXrtELs7mGaee" name="第 1 页">
-    <mxGraphModel dx="1303" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="626" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2eoXuniDgy3FarlTxN_e-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="2060" width="330" height="340" as="geometry" />
+        </mxCell>
         <mxCell id="TaMHbcw07CwSiACDO4ns-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;" parent="1" vertex="1">
           <mxGeometry x="1195" y="1705" width="345" height="110" as="geometry" />
         </mxCell>
@@ -269,6 +272,12 @@
         </mxCell>
         <mxCell id="TaMHbcw07CwSiACDO4ns-54" value="版本清单" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1511.5" width="60" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="2eoXuniDgy3FarlTxN_e-3" value="配置流水线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2eoXuniDgy3FarlTxN_e-4" value="创建git项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
