@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T02:40:29.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="IF_U-K6h7Dd8r2fMol4J" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T02:41:44.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="uAD8Z15I3a9mnS2NVq7m" version="20.2.3" type="github">
   <diagram id="aKOXHxGFXrtELs7mGaee" name="第 1 页">
-    <mxGraphModel dx="680" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,6 +440,9 @@
         </mxCell>
         <mxCell id="2eoXuniDgy3FarlTxN_e-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFB366;" edge="1" parent="1" source="2eoXuniDgy3FarlTxN_e-9" target="2eoXuniDgy3FarlTxN_e-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2eoXuniDgy3FarlTxN_e-87" value="gitlab" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontSize=44;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="405" y="2350" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
