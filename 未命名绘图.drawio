@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T03:26:44.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="LO7k248YdfYunea63Bdm" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T05:07:53.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="YgIBMWMd5u4p8uYr5MXd" version="20.5.1" type="github">
   <diagram id="aKOXHxGFXrtELs7mGaee" name="第 1 页">
-    <mxGraphModel dx="923" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,11 +458,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ubwxyJtzHkvPF2N2pRwj-3" value="客户端" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="ubwxyJtzHkvPF2N2pRwj-3" value="精卫助手" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="142.5" y="3713" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ubwxyJtzHkvPF2N2pRwj-8" value="生产环境" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="3570" width="60" height="30" as="geometry" />
+          <mxGeometry x="550" y="3590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ubwxyJtzHkvPF2N2pRwj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubwxyJtzHkvPF2N2pRwj-9" target="ubwxyJtzHkvPF2N2pRwj-12">
           <mxGeometry relative="1" as="geometry">
@@ -544,6 +544,18 @@
         </mxCell>
         <mxCell id="ubwxyJtzHkvPF2N2pRwj-20" value="..." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="570" y="4120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwxyJtzHkvPF2N2pRwj-35" value="&lt;h1&gt;方式一&lt;/h1&gt;&lt;p&gt;用户名密码可提供&lt;/p&gt;&lt;p&gt;用户名/&lt;span style=&quot;background-color: initial;&quot;&gt;密码&lt;/span&gt;&lt;/p&gt;&lt;p&gt;分组(K8S,中间件)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3820" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwxyJtzHkvPF2N2pRwj-36" value="&lt;h1&gt;方式二&lt;/h1&gt;&lt;p&gt;用户名密码不提供&lt;/p&gt;&lt;p&gt;集群内主机做好SSH免密&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="3962" width="127.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwxyJtzHkvPF2N2pRwj-37" value="Ansible主控机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="392.5" y="3693" width="100" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwxyJtzHkvPF2N2pRwj-39" value="推送安装文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="3763" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
