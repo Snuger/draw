@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T02:32:52.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="V_pmu-U2MKMhN_PiwuOl" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T02:36:10.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="CJlan9fQbM4DP7pXVSYo" version="20.5.1" type="github">
   <diagram id="aKOXHxGFXrtELs7mGaee" name="第 1 页">
     <mxGraphModel dx="566" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -580,8 +580,14 @@
         <mxCell id="ubwxyJtzHkvPF2N2pRwj-44" value="初始化集群" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="136.25" y="4162" width="72.5" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="ubwxyJtzHkvPF2N2pRwj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubwxyJtzHkvPF2N2pRwj-51" target="ubwxyJtzHkvPF2N2pRwj-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ubwxyJtzHkvPF2N2pRwj-51" value="IP-用户名-密码" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
-          <mxGeometry x="60" y="4260" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="52.5" y="4260" width="102.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwxyJtzHkvPF2N2pRwj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ubwxyJtzHkvPF2N2pRwj-52" target="ubwxyJtzHkvPF2N2pRwj-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ubwxyJtzHkvPF2N2pRwj-52" value="IP-免密" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="205" y="4260" width="80" height="30" as="geometry" />
@@ -594,6 +600,9 @@
         </mxCell>
         <mxCell id="ubwxyJtzHkvPF2N2pRwj-55" value="下载安装文件" style="whiteSpace=wrap;html=1;strokeColor=#B3B3B3;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="4159" width="80" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="ubwxyJtzHkvPF2N2pRwj-59" value="安装配置" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="110" y="4350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
