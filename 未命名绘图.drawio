@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T07:38:51.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="FgzfQypcot-hjfgnA4b2" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T07:45:05.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="QKbHhe1DLC_K760VdJzF" version="20.5.1" type="github">
   <diagram id="aKOXHxGFXrtELs7mGaee" name="第 1 页">
-    <mxGraphModel dx="1028" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -657,8 +657,9 @@
             <mxPoint x="-24" y="221" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="niFO-DLAnTx82eHoh4Qd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="ubwxyJtzHkvPF2N2pRwj-68" target="niFO-DLAnTx82eHoh4Qd-4">
+        <mxCell id="niFO-DLAnTx82eHoh4Qd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="ubwxyJtzHkvPF2N2pRwj-68">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="4770" as="targetPoint" />
             <Array as="points">
               <mxPoint x="460" y="4575" />
               <mxPoint x="460" y="4770" />
@@ -737,7 +738,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="niFO-DLAnTx82eHoh4Qd-4" value="master" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="715" y="4740" width="120" height="60" as="geometry" />
+          <mxGeometry x="715" y="4750" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="niFO-DLAnTx82eHoh4Qd-8" value="Ansible剧本&lt;br&gt;镜像文件&lt;br&gt;helm工具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="395" y="4690" width="130" height="60" as="geometry" />
@@ -745,8 +746,32 @@
         <mxCell id="niFO-DLAnTx82eHoh4Qd-11" value="云管" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="670" y="4700" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="niFO-DLAnTx82eHoh4Qd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="niFO-DLAnTx82eHoh4Qd-12" target="niFO-DLAnTx82eHoh4Qd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="niFO-DLAnTx82eHoh4Qd-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="niFO-DLAnTx82eHoh4Qd-15">
+          <mxGeometry x="0.7787" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="niFO-DLAnTx82eHoh4Qd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="niFO-DLAnTx82eHoh4Qd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="899.5" y="4875.066666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="niFO-DLAnTx82eHoh4Qd-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="niFO-DLAnTx82eHoh4Qd-20">
+          <mxGeometry x="0.8604" y="-1" relative="1" as="geometry">
+            <mxPoint x="-36" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="niFO-DLAnTx82eHoh4Qd-12" value="外部&lt;br&gt;数据库&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="732.5" y="4850" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="niFO-DLAnTx82eHoh4Qd-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="4950" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="niFO-DLAnTx82eHoh4Qd-22" value="部署模块" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="880" y="4855" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
