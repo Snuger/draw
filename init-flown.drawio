@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T03:13:17.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="xiZqRz2GUx3X10xEk7At" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T03:17:57.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="EIKQyrTRDu2WtSHc5oR_" version="20.8.19" type="github">
   <diagram id="rCTj0MCx4Ofzy-mjGSed" name="第 1 页">
     <mxGraphModel dx="2093" dy="-3691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -187,8 +187,35 @@
         <mxCell id="CgAAJdqawIcjBNMO147y-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="6170" width="965" height="600" as="geometry" />
         </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgAAJdqawIcjBNMO147y-13" target="CgAAJdqawIcjBNMO147y-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CgAAJdqawIcjBNMO147y-13" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="6200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgAAJdqawIcjBNMO147y-14" target="CgAAJdqawIcjBNMO147y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-14" value="安装LINUX基础依赖" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="6350" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgAAJdqawIcjBNMO147y-16" target="CgAAJdqawIcjBNMO147y-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-16" value="升级内核" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="6500" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgAAJdqawIcjBNMO147y-20" target="CgAAJdqawIcjBNMO147y-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-20" value="安装docker" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="253.13" y="6620" width="163.75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-22" value="服务器参数调整&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="6625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgAAJdqawIcjBNMO147y-26" value="&lt;h1&gt;K3S-Master安装步骤&lt;/h1&gt;&lt;p&gt;使用多剧本组合，相同的剧本名可复用&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="498" y="6190" width="272" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
