@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T05:50:28.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="xtt-rlgV0Gv2SbSly_fI" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T05:51:14.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="6jurcz_D43zP80LD-kaL" version="21.7.2" type="github">
   <diagram name="第 1 页" id="WVetOxo7rWprdEWdv1dO">
     <mxGraphModel dx="2083" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,16 @@
           <mxGeometry x="1120" y="180" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="220" y="319" width="10" height="80" as="geometry" />
+          <mxGeometry x="220" y="329" width="10" height="571" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="555" y="329" width="10" height="571" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="875" y="329" width="10" height="571" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1245" y="329" width="10" height="571" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
