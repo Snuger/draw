@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T05:51:22.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="j0Je67THP0lZt_oJDmRe" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T05:54:39.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="dbVRA3tKGzCbROxCR90g" version="21.7.2" type="github">
   <diagram name="第 1 页" id="WVetOxo7rWprdEWdv1dO">
     <mxGraphModel dx="2083" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,24 @@
         </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1255" y="249" width="10" height="571" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="300" as="sourcePoint" />
+            <mxPoint x="560" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-23" value="1.注册上线" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="MNkrM5vl-jbfUFuz_sfn-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="895" y="350" as="sourcePoint" />
+            <mxPoint x="1215" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-27" value="2.注册上线" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
