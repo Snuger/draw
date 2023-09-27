@@ -1,21 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T06:09:03.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="fJmnlzDEq5wzH6LVbIMc" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T06:10:58.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="Z7TIh8YfTA1QXSswaLkv" version="21.7.2" type="github">
   <diagram name="第 1 页" id="WVetOxo7rWprdEWdv1dO">
-    <mxGraphModel dx="1754" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2083" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MNkrM5vl-jbfUFuz_sfn-13" value="云控平台UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="100" width="240" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="MNkrM5vl-jbfUFuz_sfn-15" value="云控平台-&lt;br&gt;WebSocketServer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="260" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="MNkrM5vl-jbfUFuz_sfn-16" value="精卫助手&lt;br&gt;websocket&amp;nbsp;模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="100" width="260" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="MNkrM5vl-jbfUFuz_sfn-17" value="云下数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="100" width="260" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="230" y="249" width="10" height="571" as="geometry" />
         </mxCell>
@@ -136,6 +124,18 @@
             <mxPoint x="565" y="650" as="sourcePoint" />
             <mxPoint x="240" y="649.9999999999998" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-54" value="去控平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="230" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-55" value="云控平台-&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;WebSocketServer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="455" y="130" width="230" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-56" value="精卫助手&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;websocket&amp;nbsp;模块" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="775" y="130" width="230" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-57" value="云下数据" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1135" y="120" width="230" height="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
