@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T05:57:08.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="wIDFq4JwNtYZL-UDt8np" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-27T06:06:44.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="TMukOa3MUqCS5noHRaeD" version="21.7.2" type="github">
   <diagram name="第 1 页" id="WVetOxo7rWprdEWdv1dO">
-    <mxGraphModel dx="952" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="760" y="100" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-17" value="云下数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="100" width="260" height="100" as="geometry" />
+          <mxGeometry x="1120" y="100" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="230" y="249" width="10" height="571" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="885" y="249" width="10" height="571" as="geometry" />
         </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-21" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1255" y="249" width="10" height="571" as="geometry" />
+          <mxGeometry x="1245" y="249" width="10" height="571" as="geometry" />
         </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -61,10 +61,73 @@
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-30" value="3.获取云下注册的客户端" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MNkrM5vl-jbfUFuz_sfn-32" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="MNkrM5vl-jbfUFuz_sfn-18">
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-32" value="4.返回注册的和客户端列表" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="480" as="sourcePoint" />
-            <mxPoint x="480" y="480" as="targetPoint" />
+            <mxPoint x="560" y="460" as="sourcePoint" />
+            <mxPoint x="240" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="MNkrM5vl-jbfUFuz_sfn-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="534.21" as="sourcePoint" />
+            <mxPoint x="565" y="534.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-35" value="5.发送获取数据请求" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-38" value="目标客户端ID" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="545" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-39" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-38">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579" y="570" as="sourcePoint" />
+            <mxPoint x="884" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-41" value="6.转发请求数据" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-42" value="目标客户端ID&lt;br&gt;发送客户端ID" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="585" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-43" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-42">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="MNkrM5vl-jbfUFuz_sfn-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="895" y="610" as="sourcePoint" />
+            <mxPoint x="1200" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-45" value="7.转发请求数据" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-46" value="目标客户端ID&lt;br&gt;发送客户端ID" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="670" y="700" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-47" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="MNkrM5vl-jbfUFuz_sfn-46">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-50" value="8.返回请求数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="670" as="sourcePoint" />
+            <mxPoint x="895" y="669.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNkrM5vl-jbfUFuz_sfn-51" value="9.返回请求数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885" y="700" as="sourcePoint" />
+            <mxPoint x="580" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
