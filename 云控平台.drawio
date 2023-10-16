@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T01:44:36.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="1gYE_QfEl_7jlspbDgme" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T01:45:01.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="JjxyGz9rx9EwKA_TR6Xw" version="22.0.4" type="github">
   <diagram name="第 1 页" id="WVetOxo7rWprdEWdv1dO">
     <mxGraphModel dx="1960" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,12 +250,6 @@
         <mxCell id="2UpnGSKjC5STj2f3-a9j-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.489;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wzpFAZ2yNTVjerZHF5mi-28" target="wzpFAZ2yNTVjerZHF5mi-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2UpnGSKjC5STj2f3-a9j-5" value="去控平台前端项目" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="20" y="90" width="230" height="760" as="geometry" />
-        </mxCell>
-        <mxCell id="2UpnGSKjC5STj2f3-a9j-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2UpnGSKjC5STj2f3-a9j-5">
-          <mxGeometry x="109" y="395" width="10" height="225" as="geometry" />
-        </mxCell>
         <mxCell id="2UpnGSKjC5STj2f3-a9j-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2UpnGSKjC5STj2f3-a9j-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="500" as="sourcePoint" />
@@ -290,6 +284,12 @@
         </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-57" value="云下数据" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1304.5" y="80" width="230" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="2UpnGSKjC5STj2f3-a9j-5" value="去控平台前端项目" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="230" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="2UpnGSKjC5STj2f3-a9j-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="2UpnGSKjC5STj2f3-a9j-5">
+          <mxGeometry x="109" y="395" width="10" height="225" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
