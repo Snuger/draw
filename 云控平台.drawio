@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T01:25:46.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="_i3TbzB8z2t8aMTSFKOQ" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T01:26:27.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="RnDYY4xFoSDAEe9Vx_Qa" version="22.0.4" type="github">
   <diagram name="第 1 页" id="WVetOxo7rWprdEWdv1dO">
     <mxGraphModel dx="1960" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
         <mxCell id="wzpFAZ2yNTVjerZHF5mi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wzpFAZ2yNTVjerZHF5mi-15" target="wzpFAZ2yNTVjerZHF5mi-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wzpFAZ2yNTVjerZHF5mi-15" value="WebSocketk中间" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="wzpFAZ2yNTVjerZHF5mi-15" value="WebSocket&amp;nbsp;Server" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="407.5" y="1355" width="105" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wzpFAZ2yNTVjerZHF5mi-18" value="云控平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
