@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T03:27:36.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="dkpzCKgM4dkkmf0bf76y" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T02:53:57.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="FeeWWgZtp0Hfo5yhs-x9" version="23.0.2" type="github">
   <diagram name="第 1 页" id="WVetOxo7rWprdEWdv1dO">
-    <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
             <mxPoint x="139" y="689.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2UpnGSKjC5STj2f3-a9j-7" value="去控平台后端访问代理&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(proxy-websocket客户端)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="2UpnGSKjC5STj2f3-a9j-7" value="云控平台后端访问代理&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(proxy-websocket客户端)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="289.5" y="90" width="230" height="760" as="geometry" />
         </mxCell>
         <mxCell id="MNkrM5vl-jbfUFuz_sfn-57" value="云下数据" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -378,23 +378,26 @@
         <mxCell id="1Ah38JJ9TX2nU8geI9VG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="1Ah38JJ9TX2nU8geI9VG-8" target="1Ah38JJ9TX2nU8geI9VG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c-3tbT9LWVbUufx9FGrT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-3tbT9LWVbUufx9FGrT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="302" y="1169" width="530" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c-3tbT9LWVbUufx9FGrT-5" value="BODY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-3tbT9LWVbUufx9FGrT-5" value="BODY" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="318" y="1179" width="489" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-3tbT9LWVbUufx9FGrT-6" value="http" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-3tbT9LWVbUufx9FGrT-6" value="http" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="196.75" y="1061" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-3tbT9LWVbUufx9FGrT-7" value="ssh" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-3tbT9LWVbUufx9FGrT-7" value="ssh" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="196.75" y="1179" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-3tbT9LWVbUufx9FGrT-8" value="目标客户端ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-3tbT9LWVbUufx9FGrT-8" value="目标客户端ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="87" y="1179" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c-3tbT9LWVbUufx9FGrT-9" value="源客户端ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c-3tbT9LWVbUufx9FGrT-9" value="源客户端ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="884.25" y="1180" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zKRfIfdH21-UedyL94g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="wzpFAZ2yNTVjerZHF5mi-29" target="2UpnGSKjC5STj2f3-a9j-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
