@@ -91,6 +91,27 @@
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;需求上绑定数据变更&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="20" width="320" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-42" value="v1.1.5.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-43" value="周迭代三" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="219" y="830" width="61" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-44" value="需求H&lt;br&gt;&lt;div&gt;需求I&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;需求G&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="910" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-45" value="需求A&lt;div&gt;需求B&lt;/div&gt;&lt;div&gt;需求C&lt;/div&gt;" style="text;strokeColor=#FF5252;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="980" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-46" value="需求D&lt;div&gt;需求E&lt;/div&gt;&lt;div&gt;需求F&lt;/div&gt;" style="text;strokeColor=#FF261F;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1060" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-47" value="code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#2129FF;color=#000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1020" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-48" value="code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#2129FF;color=#000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1100" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
