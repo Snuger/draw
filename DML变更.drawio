@@ -25,7 +25,7 @@
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-6" value="v1.1.5.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fipRC0NaJgUNX1WB6Vy9-8" value="线上使用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-8" value="线上版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="219" y="30" width="61" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-9" value="周迭代一" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
