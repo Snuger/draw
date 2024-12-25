@@ -118,7 +118,7 @@
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;迭代延迟并不能控制代码不发布到现场&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="260" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fipRC0NaJgUNX1WB6Vy9-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;变更绑定了，并不代表着已经发布了，对于与开人员来说是已经绑定了，现场应该有，实际情况，可能有没有发布，也有可能需求被向后规划，或者异常的向前规划。&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;变更绑定了，并不代表着已经发布了，对于与开人员来说是已经绑定了，现场应该有，实际情况，可能有没有发布(原因是：需求被向后规划，或者异常的向前规划,代码已经提交了）&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="470" height="100" as="geometry" />
         </mxCell>
       </root>
