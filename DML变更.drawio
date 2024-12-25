@@ -110,7 +110,7 @@
           <mxGeometry x="880" y="260" width="740" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;管理要素（以发版产生的序号为准）&lt;br&gt;变更绑定了，并不代表着已经发布了，对于与开人员来说是已经绑定了，现场应该有，实际情况，可能有没有发布(原因是：需求被向后规划，或者异常的向前规划,代码已经提交了）&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="440" width="750" height="100" as="geometry" />
+          <mxGeometry x="880" y="440" width="540" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-58" value="V1.1.5.3.0---&amp;gt;20" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="398.33" y="305" width="120" height="30" as="geometry" />
