@@ -161,7 +161,7 @@
           <mxGeometry x="1460" y="440" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-80" value="1.发布之后，在需求上增补的变更，只有产生了GA版本,热修复的版本之后，变更才会出现在现场，绑定之后没有发布&lt;div&gt;2.同一个需求，在重新规划之后，绑定了变更，而规划的版本又延后，变更会延迟出现在现场&lt;/div&gt;&lt;div&gt;3.增补的变更也有可能是上个版本需要的，同样的被延迟更新。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="450" width="500" height="70" as="geometry" />
+          <mxGeometry x="1480" y="470" width="500" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
