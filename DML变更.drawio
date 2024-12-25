@@ -63,8 +63,8 @@
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-26" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#FF4530;strokeColor=#FF8838;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="50" as="sourcePoint" />
-            <mxPoint x="90" y="620" as="targetPoint" />
+            <mxPoint x="130" y="55" as="sourcePoint" />
+            <mxPoint x="130" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-27" value="需求A&lt;div&gt;需求B&lt;/div&gt;&lt;div&gt;需求C&lt;/div&gt;" style="text;strokeColor=#FF5252;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
