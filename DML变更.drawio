@@ -157,6 +157,9 @@
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-77" value="2.部分留在老版本内，迁移至新版本内继续绑定，总会有一些遗漏绑定的，老版本上线异常，而新绑定的变更又在迁移后的版本上。对于开发人员来说，同样是绑定了的" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="196" width="640" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-78" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="440" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
