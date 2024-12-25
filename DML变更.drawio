@@ -37,6 +37,9 @@
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="10" height="590" as="geometry" />
         </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-13" value="需求A&lt;div&gt;需求B&lt;/div&gt;&lt;div&gt;需求C&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
