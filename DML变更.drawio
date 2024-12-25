@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="第 1 页" id="zGUjybOHjXsECZjbAu67">
-    <mxGraphModel dx="1960" dy="975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1388" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,8 +103,8 @@
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-48" value="code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#2129FF;color=#000;" vertex="1" parent="1">
           <mxGeometry x="240" y="1100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fipRC0NaJgUNX1WB6Vy9-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;需求重新规划的问题导致变更锚定的版本号发生变化&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="156" width="580" height="60" as="geometry" />
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;需求重新规划的问题导致变更锚定的版本号发生变化&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1.需求的重新规划，伴随着变更的操作，无论是迁移，或者是分开绑定都存在变更不同步情况，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="136" width="580" height="94" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;使用全局的版本序号延迟变更的同步时间，&lt;br&gt;迭代延迟并不能控制代码不发布到现场&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: initial; font-weight: normal;&quot;&gt;原因：正常开发的情况下，基于Dev开发，修改BUG以切出的分支修改，分捡至Dev,而下一个版本的创建基于Dev创建&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="260" width="740" height="120" as="geometry" />
@@ -147,6 +147,15 @@
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-74" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="405" y="362" width="16.67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-75" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="150" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-76" value="1.全部迁移新规划的版本，由于代码已经合并，需求在没有结束的情况下，部分代码已经在现场运行，对于开发人员完全是无感知的" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="160" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-77" value="2.部分留在老版本内，迁移至新版本内继续绑定，总会有一些遗漏绑定的，老版本上线异常，而新绑定的变更又在迁移后的版本上。对于开发人员来说，同样是绑定了的" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="196" width="640" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
