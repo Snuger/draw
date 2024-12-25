@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="第 1 页" id="zGUjybOHjXsECZjbAu67">
-    <mxGraphModel dx="2493" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="40" y="30" width="20" height="880" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-2" value="dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="310" width="50" height="30" as="geometry" />
+          <mxGeometry y="310" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.3333333333333335;endSize=1.5583333333333336;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-33" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
           <mxGeometry x="570" y="83" width="16.67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-34" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;需求上绑定数据变更&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="20" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
