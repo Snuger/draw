@@ -52,6 +52,9 @@
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-19" value="V1.1.5.3.0---&amp;gt;11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="48" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-20" value="需求D&lt;div&gt;需求E&lt;/div&gt;&lt;div&gt;需求F&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
