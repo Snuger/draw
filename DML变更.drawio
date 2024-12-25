@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="第 1 页" id="zGUjybOHjXsECZjbAu67">
-    <mxGraphModel dx="1388" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2215" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="30" width="10" height="590" as="geometry" />
+          <mxGeometry x="40" y="30" width="20" height="590" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-2" value="dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="310" width="50" height="30" as="geometry" />
+          <mxGeometry x="-10" y="310" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.3333333333333335;endSize=1.5583333333333336;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -57,6 +57,21 @@
         </mxCell>
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-21" value="需求H&lt;br&gt;&lt;div&gt;需求I&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;需求G&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="650" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-22" value="需求A&lt;div&gt;需求B&lt;/div&gt;&lt;div&gt;需求C&lt;/div&gt;" style="text;strokeColor=#FF5252;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-26" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#FF4530;strokeColor=#FF8838;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="50" as="sourcePoint" />
+            <mxPoint x="90" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-27" value="需求A&lt;div&gt;需求B&lt;/div&gt;&lt;div&gt;需求C&lt;/div&gt;" style="text;strokeColor=#FF5252;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-28" value="需求D&lt;div&gt;需求E&lt;/div&gt;&lt;div&gt;需求F&lt;/div&gt;" style="text;strokeColor=#FF261F;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="800" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
