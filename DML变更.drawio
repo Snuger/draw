@@ -112,6 +112,12 @@
         <mxCell id="fipRC0NaJgUNX1WB6Vy9-48" value="code" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#2129FF;color=#000;" vertex="1" parent="1">
           <mxGeometry x="240" y="1100" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;需求重新规划的问题&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="160" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fipRC0NaJgUNX1WB6Vy9-53" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;迭代延迟并不能控制代码不发布到现场&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="280" width="320" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
